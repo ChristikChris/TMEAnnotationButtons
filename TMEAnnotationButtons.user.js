@@ -68,26 +68,20 @@ Quality Reminders from your TME:
 • Ask for all necessary information, use probing questions to uncover any unstated aspects of the issue during the live channel to effectively troubleshoot the case.`,
 
         caseReview: `**TME Case Review Annotation***
-
-Case Review Status:
-
-
+ 
+Case Review Status: (Approved/Approved with Edits/Denied)
 Case Disposition: (PMA/PAA /Resolve/WIP/Pending Research)
-
-
-
-	1. Was the correct outcome provided to the Selling Partner? ✔️/ ❌
-	2.  Did the Associate do what the Selling Partner requested? (✔️/ ❌)
-	3.  Seller Understandability checklist: Did the Associate demonstrate understanding of Selling Partner issue?✔️/ ❌
-
-• The Associate should actively review the case holistically to understand and address all SP issues correctly. ✔️/ ❌
-• The associate clearly summarized pending issues with specific references (e.g., ASIN/Order ID) in their own words,    providing a clear indication on the topics they will be addressing. ✔️/❌
-• The associate did not request additional information already present on the case. ✔️/❌
-
-  b. The Associate should provide accurate, customized responses that set the proper expectations. ✔️/ ❌
-• The associate excluded internal jargon into their response. ✔️/❌
-• The associate has provided educational next steps in writing, as well as an additional help page if applicable to prevent future issues. ✔️/❌
-• The associate asked thorough questions to gather all necessary information for effective troubleshooting, eliminating the need for follow-up emails requesting additional details. ✔️/❌`,
+ 
+1.         Was the correct outcome provided to the Selling Partner/Vendor? (✔️/ ❌)
+1.	Demonstrate understanding of Selling Partner issues through meaningful interaction. (✔️/ ❌)
+2.	Utilize appropriate resources to research and provide correct and accurate solutions to Selling Partner. (✔️/ ❌)
+3.	Deliver accurate and complete resolutions that fully address the Selling Partner's concerns. (✔️/ ❌)
+ 
+2.         Did the Associate do what the Selling Partner requested? (✔️/ ❌)
+ 
+If No (please annotate reason why and next steps for associate)
+✔️= meaning “Yes” or “N/A” ❌= meaning “No”
+`,
 
         transfer: `TME Case Transfer Annotation
 
